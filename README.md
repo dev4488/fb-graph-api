@@ -1,4 +1,4 @@
-Please Note: this API is not depreciated as facebook has shifted their code from FQL to Graph API fully
+Please Note: this API is now depreciated as facebook has shifted their code from FQL to Graph API fully
 
 
 author: Devinder Kumar
